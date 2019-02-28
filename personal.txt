@@ -1,0 +1,12 @@
+Write a C program to find first occurrence of a character in a given string.
+Write a C program to find last occurrence of a character in a given string.
+Write a C program to search all occurrences of a character in given string.
+Write a C program to count occurrences of a character in given string.
+Write a C program to find highest frequency character in a string.
+Write a C program to find lowest frequency character in a string.
+Write a C program to count frequency of each character in a string.
+Write a C program to remove first occurrence of a character from string.
+Write a C program to remove last occurrence of a character from string.
+Write a C program to remove all occurrences of a character from string.
+Write a C program to remove all repeated characters from a given string.
+Write a C program to replace first occurrence of a character with another in a string.
